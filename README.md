@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 - Hugging Face for the `transformers` and `datasets` libraries.
-- `clapAI/MultiLingualSentiment` dataset for providing labeled emotion data.
+- `clapAI/MultiLingualSentiment` dataset for providing labeled multilingual sentiment data.
 - PyTorch for the deep learning framework.
 
 ---
