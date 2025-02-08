@@ -1,0 +1,10 @@
+torch
+transformers
+bitsandbytes
+peft
+accelerate
+datasets
+python-dotenv
+protobuf
+sentencepiece
+scikit-learn
